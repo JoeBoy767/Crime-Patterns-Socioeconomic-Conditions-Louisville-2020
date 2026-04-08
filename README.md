@@ -9,7 +9,7 @@ I chose a file published by Louisville Metro Government of a list of occurred/re
 
 I identified the columns with both anomalous and missing/Null/NaN values and renamed the columns in mixed case for better readability.
 
-I then converted the 2 date fields to `DateTime` format (`Date_Reported` and `Date_Occurred`) and then split each of those 2 fields into new separate fields for Year, Month, Day,  Time, and Day of Week, then moved those new fields to follow each of the original date fields in order. I also moved 2 crime identifier fields to come after all of the date fields.
+I then converted the 2 date fields to `DateTime` format (`Date_Reported` and `Date_Occurred`) and then split each of those 2 fields into new separate fields for Year, Month, Day, Time, and Day of Week, then moved those new fields to follow each of the original date fields in order. I also moved 2 crime identifier fields to come after all of the date fields.
 
 ## EDA
 

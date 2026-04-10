@@ -51,3 +51,5 @@ While most of these assumptions can be considered validated by the findings, the
 2. The murder rate in the city during this period was also higher than recent years. Did more murders mean more violent crime occurred then, as well?
 
 NOTE: I used Google and ChatGPT in my project to verify my code, especially when I experienced issues with it. In certain cases, ChatGPT provided direct code to use.
+
+ALSO: I tried my best to do the Database and SQL coding portion, but consistently ran into issues with the code there. If allowed, I'd love to attempt to continue my efforts there, even after the class is over.
